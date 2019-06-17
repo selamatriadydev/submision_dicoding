@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wisata Baturaja</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">with CardView</string>
+
+    <!--detail-->
+    <string name="content_text">Gua putri adalah destinasi wisata favorit yang membuat Baturaja dikenal publik. Di gua yang menyimpan peninggalan bersejarah ini, menawarkan banyak sekali wisata, mulai dari wisata sejarah, wisata alam, dan wisata budaya.
+
+Selain itu, sarana di tempat wisata ini juga cukup baik. Mulai dari tempat beristirahat, mushola, tempat bercuci muka (yang konon bisa mencerahkan kulit), dan warung makanan. Terus didukung dengan kondisi Gua Putri juga sangat terawat.</string>
+    <string name="content_alamat">
+        Desa Padangbindu,\n Kecamatan Semidangaji</string>
+    <string name="content_fasilitas">
+        tempat beristirahat,\n mushola,\n tempat bercuci muka (yang konon bisa mencerahkan kulit),\n dan warung makanan
+    </string>
+    <string name="content_kategori">
+        wisata sejarah,\n wisata alam,\n dan wisata budaya
+        </string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="data_received">data_received</string>
+</resources>
